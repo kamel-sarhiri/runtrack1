@@ -1,0 +1,24 @@
+* {
+  background-image: url("fond.jpg");
+  background-size: cover;
+}
+
+h1 {
+  color: white;
+  font-size: 50px;
+  font-family: "Arial";
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+
+.align {
+  display: flex;
+  flex-direction: row;
+}
+
+.white {
+  color: white;
+  font-size: 20px;
+  font-family: "Arial";
+  margin-left: 2%;
+}
